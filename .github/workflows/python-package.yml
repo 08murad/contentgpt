@@ -29,6 +29,3 @@ jobs:
         python -m pip install --upgrade pip
         python -m pip install cvzone
         python -m pip install tensorflow
-    - name: Run file
-      run: |
-        contentgpt/main.py
