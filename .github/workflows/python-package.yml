@@ -31,4 +31,4 @@ jobs:
         python -m pip install tensorflow
     - name: Run file
       run: |
-        main.py
+        contentgpt/main.py
